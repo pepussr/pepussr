@@ -2,9 +2,7 @@
 - I'm college student.
 - idk English because i dont study it
 # &uarr;こんな感じで英語が拙い。
-大分県出身のトウモロコシです。好きな物はコカ・コーラで、授業中はいつも飲んでいます。しかし最近は流行りに乗ろうと飲んだNOPEの味がとても美味しく感じるので、両方飲んでいます。<br>
-今のところはエンジニアでもなんでもなく、パソコンオタクでしかない人物なので、このREADMEにひたすら長文の自己紹介を書こうと考えました。参考にしようとした人たちがシンプルすぎる自己紹介文だったので、逆張り天邪鬼が暴れてやろうと考えたわけですね。<br>
-### 自己紹介書くの飽きた。
+非母語話者英語という言い訳も使えますが、それにしては英語が書けなさすぎる。
 <!--
 **pepussr/pepussr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
