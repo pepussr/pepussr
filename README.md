@@ -2,7 +2,7 @@
 - I'm college student.
 - idk English because i dont study it
 # &uarr;こんな感じで英語が拙い。
-非母語話者英語という言い訳も使えますが、それにしては英語が書けなさすぎる。
+英語の母語話者ではないという言い訳も使えますが、それにしては英語が書けなさすぎる。
 <!--
 **pepussr/pepussr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
